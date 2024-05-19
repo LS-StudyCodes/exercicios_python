@@ -1,4 +1,4 @@
-## Este repositório contém os exercícios do teste de Compreensão de Python.
+## Este repositório contém os exercícios do teste de Python.
 
 - **Exercício 1:** Você encontrará o código e a documentação do exercício 1 na pasta teste_cp_ex1.
 - **Exercício 2:** Você encontrará o código e a documentação do exercício 2 na pasta teste_cp_ex2.
